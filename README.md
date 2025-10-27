@@ -29,6 +29,28 @@ ML PROJECTS
 
 ---
 
+## 🤖 ML Models in This Repository
+
+This repository contains **Computer Vision models** for real-time **Gender and Age Detection**!
+
+### 📋 Available Models:
+- **Face Detection Model** - OpenCV DNN with TensorFlow backend
+- **Age Prediction Model** - CaffeNet-based CNN (8 age ranges)
+- **Gender Classification Model** - CaffeNet-based CNN (Binary classification)
+
+📖 **[View Complete ML Models Inventory](ML_MODELS_INVENTORY.md)** for detailed information about architectures, usage, and technical specifications.
+
+### 🚀 Quick Start:
+```bash
+# Run gender and age detection on webcam
+python "ML MODELS/gad.py"
+
+# Run on an image file
+python "ML MODELS/gad.py" --image path/to/image.jpg
+```
+
+---
+
 ## 🔍 Work in Progress
 
 Currently exploring more in-depth into **Deep Learning** and **Reinforcement Learning** for dynamic systems!
