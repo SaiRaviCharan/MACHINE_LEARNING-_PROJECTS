@@ -1,0 +1,33 @@
+# Ignore large model files
+*.h5
+*.pkl
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Media files
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
