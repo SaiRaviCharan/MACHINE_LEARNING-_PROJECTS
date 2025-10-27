@@ -10,39 +10,6 @@ ML PROJECTS
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎨 **Stable Diffusion AI Art Generator**
-Create stunning art from simple text prompts with AI. Perfect for creative projects!
-
-- **Technologies:** Python, Stable Diffusion, ComfyUI
-- **Live Demo:** [Link to demo]
-
----
-
-### 💬 **AI Room Booking Chatbot**
-An intelligent chatbot for booking rooms via conversation, powered by IBM Watson!
-
-- **Technologies:** IBM Watson Assistant, IBM Cloud Functions
-- **Live Demo:** [Link to demo]
-
----
-
-### 🧠 **Real-time Face Detection**
-A face detection application that uses your webcam to detect faces in real-time.
-
-- **Technologies:** Python, OpenCV, Dlib
-- **Live Demo:** [Link to demo]
-
----
-
-### 📊 **ML Classifier Dashboard**
-A beautifully interactive dashboard to visualize multiple machine learning models.
-
-- **Technologies:** Python, Streamlit, Scikit-learn
-- **Live Demo:** [Link to demo]
-
----
 
 ## 💻 Tech Stack
 
@@ -68,13 +35,6 @@ Currently exploring more in-depth into **Deep Learning** and **Reinforcement Lea
 
 ---
 
-## 📬 Contact & Connect
-
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📫 Email: youremail@example.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/brain.gif" width="100">
