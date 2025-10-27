@@ -43,6 +43,7 @@ python gad.py --image path/to/your/image.jpg
 
 **Option 3: Using a Video File**
 ```bash
+# Note: The --image parameter accepts both images and videos
 python gad.py --image path/to/your/video.mp4
 ```
 

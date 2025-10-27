@@ -24,7 +24,7 @@ This repository contains Machine Learning models for **Gender and Age Detection*
 - **Purpose:** Predicts age range of detected faces
 - **Framework:** Caffe (using OpenCV DNN module)
 - **Architecture:** CaffeNet-based Convolutional Neural Network
-  - Input dimensions: 1 x 3 x 227 x 227
+  - Input dimensions: [batch_size] x 3 x 227 x 227 (typically 1 x 3 x 227 x 227 for single image)
   - Layers: Convolution, ReLU, Pooling, Fully Connected
   - First conv layer: 96 filters, 7x7 kernel, stride 4
 - **Age Categories:** 8 ranges
@@ -39,7 +39,7 @@ This repository contains Machine Learning models for **Gender and Age Detection*
 - **Purpose:** Classifies gender of detected faces
 - **Framework:** Caffe (using OpenCV DNN module)
 - **Architecture:** CaffeNet-based Convolutional Neural Network
-  - Input dimensions: 10 x 3 x 227 x 227
+  - Input dimensions: [batch_size] x 3 x 227 x 227 (typically 1 x 3 x 227 x 227 for single image)
   - Layers: Convolution, ReLU, Pooling, Fully Connected
   - First conv layer: 96 filters, 7x7 kernel, stride 4
 - **Classes:** Binary classification
